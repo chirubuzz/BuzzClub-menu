@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BuzzClub-menu/static/css/main.f801341d.css",
+    "main.js": "/BuzzClub-menu/static/js/main.318f52c1.js",
+    "static/js/453.1de3eea2.chunk.js": "/BuzzClub-menu/static/js/453.1de3eea2.chunk.js",
+    "index.html": "/BuzzClub-menu/index.html",
+    "main.f801341d.css.map": "/BuzzClub-menu/static/css/main.f801341d.css.map",
+    "main.318f52c1.js.map": "/BuzzClub-menu/static/js/main.318f52c1.js.map",
+    "453.1de3eea2.chunk.js.map": "/BuzzClub-menu/static/js/453.1de3eea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f801341d.css",
+    "static/js/main.318f52c1.js"
+  ]
+}
